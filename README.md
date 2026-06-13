@@ -14,36 +14,6 @@ I'm an AI & Data Science graduate passionate about transforming data into meanin
 * LinkedIn: [https://www.linkedin.com/in/rwan-kassem/]
 * Email: [rwankassem68@gmail.com]
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-* Python
-* SQL
-* C++
-
-### Data Science & Analytics
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-
-### Machine Learning & AI
-
-* Scikit-learn
-* TensorFlow
-* PyTorch
-* OpenCV
-* YOLO
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* Jupyter Notebook
-* VS Code
-
 ## GitHub Stats
 
 Coming Soon...
